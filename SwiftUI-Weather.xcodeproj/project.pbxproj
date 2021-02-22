@@ -11,6 +11,7 @@
 		0B1FA3D725E19B5A0038CA12 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1FA3D625E19B5A0038CA12 /* ContentView.swift */; };
 		0B1FA3D925E19B5C0038CA12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B1FA3D825E19B5C0038CA12 /* Assets.xcassets */; };
 		0B1FA3DC25E19B5C0038CA12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B1FA3DB25E19B5C0038CA12 /* Preview Assets.xcassets */; };
+		0BA4E27125E393CB00B96BA7 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA4E27025E393CB00B96BA7 /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		0B1FA3D825E19B5C0038CA12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B1FA3DB25E19B5C0038CA12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0B1FA3DD25E19B5C0038CA12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BA4E27025E393CB00B96BA7 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				0B1FA3D425E19B5A0038CA12 /* SwiftUI_WeatherApp.swift */,
 				0B1FA3D625E19B5A0038CA12 /* ContentView.swift */,
+				0BA4E27025E393CB00B96BA7 /* WeatherButton.swift */,
 				0B1FA3D825E19B5C0038CA12 /* Assets.xcassets */,
 				0B1FA3DD25E19B5C0038CA12 /* Info.plist */,
 				0B1FA3DA25E19B5C0038CA12 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				0B1FA3D725E19B5A0038CA12 /* ContentView.swift in Sources */,
 				0B1FA3D525E19B5A0038CA12 /* SwiftUI_WeatherApp.swift in Sources */,
+				0BA4E27125E393CB00B96BA7 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
